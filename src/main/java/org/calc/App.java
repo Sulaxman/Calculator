@@ -20,6 +20,7 @@ public class App
 		App app= new App();
 		long temp = app.calculateAddition(10, 20);
 		System.out.println("Addition of a and b is: "+temp);
+                System.out.println("Sample");
 	}
 	
 }
